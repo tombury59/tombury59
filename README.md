@@ -32,8 +32,8 @@
 ## `01` · En chiffres
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=tombury59&show_icons=true&hide_border=true&count_private=true&title_color=ff6b57&icon_color=ff6b57&text_color=98a1b3&bg_color=0c0e13" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tombury59&layout=compact&hide_border=true&title_color=ff6b57&text_color=98a1b3&bg_color=0c0e13" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=tombury59&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tombury59&theme=github_dark" />
 </p>
 
 <p align="center">
@@ -47,7 +47,7 @@
 <table>
   <tr>
     <td width="42%" valign="top">
-      <img src="assets/projet.png" alt="Aperçu du projet" width="100%" />
+      <img src="assets/app.png" alt="Aperçu du projet" width="100%" />
     </td>
     <td width="58%" valign="top">
       <h3>Wishlist familiale</h3>
@@ -55,7 +55,7 @@
         Application développée en JavaScript et CSS natifs permettant à chaque membre d’une famille d’ajouter des idées de cadeaux à offrir.
       </p>
       <a href="https://github.com/tombury59/WISHLIST">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=tombury59&repo=nom-du-repo&title_color=ff6b57&text_color=98a1b3&icon_color=ff6b57&bg_color=0c0e13&border_color=232936" alt="Voir le repo" />
+        <img src="https://img.shields.io/badge/Voir_le_repo-WISHLIST-ff5a45?style=for-the-badge&labelColor=12151c&logo=github&logoColor=white" alt="Voir le repo WISHLIST" />
       </a>
     </td>
   </tr>
