@@ -85,8 +85,8 @@
 ## `03` · Me contacter
 
 <p align="center">
-  <a href="https://github.com/tombury59">
-    <img src="https://img.shields.io/badge/GitHub-@tombury59-12151c?style=flat-square&logo=github&logoColor=white" />
+  <a href="mailto:tombury59@hotmail.com">
+    <img src="https://img.shields.io/badge/Email-tombury59@hotmail.com-D14836?style=flat-square&logo=maildotru&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/tom-bury-501534260">
     <img src="https://img.shields.io/badge/LinkedIn-Connectons-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
