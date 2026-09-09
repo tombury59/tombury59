@@ -46,17 +46,38 @@
 
 <table>
   <tr>
-    <td width="42%" valign="top">
-      <img src="assets/app.png" alt="Aperçu du projet" width="100%" />
+    <td width="50%" valign="top">
+      <img src="assets/whishlist.png" alt="Aperçu de Wishlist familiale" width="100%" />
     </td>
-    <td width="58%" valign="top">
+    <td width="50%" valign="top">
       <h3>Wishlist familiale</h3>
       <p>
-        Application développée en JavaScript et CSS natifs permettant à chaque membre d’une famille d’ajouter des idées de cadeaux à offrir.
+        Application développée en JavaScript et CSS natifs permettant à chaque membre d'une famille d'ajouter des idées de cadeaux à offrir.
       </p>
       <a href="https://github.com/tombury59/WISHLIST">
-        <img src="https://img.shields.io/badge/Voir_le_repo-WISHLIST-ff5a45?style=for-the-badge&labelColor=12151c&logo=github&logoColor=white" alt="Voir le repo WISHLIST" />
+        <img src="https://img.shields.io/badge/Voir_le_repo-12151c?style=for-the-badge&logo=github&logoColor=white" alt="Voir le repo" />
       </a>
+      <a href="https://github.com/tombury59/WISHLIST">
+        <img src="https://img.shields.io/badge/Wishlist-ff5a45?style=for-the-badge&logoColor=white" alt="Voir la démo" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Ping Prono</h3>
+      <p>
+        Application complète de gestion de pronostics pour mon club de Tennis de Table.
+        Développée en PHP avec le framework Laravel et le moteur de templates Blade, elle permet aux membres du club de créer des pronostics sur les matchs de la saison.
+      </p>
+      <a href="https://github.com/tombury59/PROJET_PRONO_PING">
+        <img src="https://img.shields.io/badge/Voir_le_repo-12151c?style=for-the-badge&logo=github&logoColor=white" alt="Voir le repo" />
+      </a>
+      <a href="https://github.com/tombury59/PROJET_PRONO_PING">
+        <img src="https://img.shields.io/badge/Projet_Prono_Ping-ff5a45?style=for-the-badge&logoColor=white" alt="Voir le projet" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+      <img src="assets/ping-prono.png" alt="Aperçu de Ping Prono" width="100%" />
     </td>
   </tr>
 </table>
