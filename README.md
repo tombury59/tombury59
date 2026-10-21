@@ -47,18 +47,18 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <img src="assets/whishlist.png" alt="Aperçu de Wishlist familiale" width="100%" />
+      <img src="assets/phobee.png" alt="Aperçu de Phobee" width="100%" />
     </td>
     <td width="50%" valign="top">
-      <h3>Wishlist familiale</h3>
+      <h3>Phobee</h3>
       <p>
-        Application développée en JavaScript et CSS natifs permettant à chaque membre d'une famille d'ajouter des idées de cadeaux à offrir.
+        Projet interfilière de mon Master 2 à My Digital School. L'objectif est de créer un lot applicatif permettant de simplifier concrètement la gestion des documents administratifs agricoles grâce à une solution claire, accessible et adaptée au terrain.​
       </p>
-      <a href="https://github.com/tombury59/WISHLIST">
+      <a href="https://github.com/MDSUphobee/PHOBEE">
         <img src="https://img.shields.io/badge/Voir_le_repo-12151c?style=for-the-badge&logo=github&logoColor=white" alt="Voir le repo" />
       </a>
-      <a href="https://github.com/tombury59/WISHLIST">
-        <img src="https://img.shields.io/badge/Wishlist-ff5a45?style=for-the-badge&logoColor=white" alt="Voir la démo" />
+      <a href="https://github.com/MDSUphobee/PHOBEE">
+        <img src="https://img.shields.io/badge/Phobee-ff5a45?style=for-the-badge&logoColor=white" alt="Voir la démo" />
       </a>
     </td>
   </tr>
