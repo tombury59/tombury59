@@ -1,6 +1,7 @@
 
 <h1 align="center">Tom<span>.</span></h1>
 
+![](https://api.visitorbadge.io/api/VisitorHit?user=tombury59&repo=github-visitors-badge&countColor=%23ff5b45)
 
 <p align="center">
   <code>// développeur full-stack — Angers, FR</code>
