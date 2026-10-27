@@ -13,14 +13,14 @@
 </p>
 
 <p align="center">
-  <a href="https://tom-bury.fr/"><b>tom-bury.fr</b></a>
-</p>
-
-<p align="center">
   <img src="https://img.shields.io/badge/Master_2-My_Digital_School-ff5a45?style=flat-square&labelColor=12151c" />
   <img src="https://img.shields.io/badge/Full--Stack-12151c?style=flat-square" />
   <img src="https://img.shields.io/badge/DB_Optimization-12151c?style=flat-square" />
   <img src="https://img.shields.io/badge/Ouvert_aux_projets-12151c?style=flat-square" />
+</p>
+
+<p align="center">
+  <a href="https://tom-bury.fr/"><b>tom-bury.fr</b></a>
 </p>
 
 <p align="center">
