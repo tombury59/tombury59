@@ -13,6 +13,10 @@
 </p>
 
 <p align="center">
+  <a href="https://tom-bury.fr/"><b>tom-bury.fr</b></a>
+</p>
+
+<p align="center">
   <img src="https://img.shields.io/badge/Master_2-My_Digital_School-ff5a45?style=flat-square&labelColor=12151c" />
   <img src="https://img.shields.io/badge/Full--Stack-12151c?style=flat-square" />
   <img src="https://img.shields.io/badge/DB_Optimization-12151c?style=flat-square" />
@@ -88,6 +92,9 @@
 <p align="center">
   <a href="mailto:tombury59@hotmail.com">
     <img src="https://img.shields.io/badge/Email-tombury59@hotmail.com-D14836?style=flat-square&logo=maildotru&logoColor=white" />
+  </a>
+  <a href="https://tom-bury.fr/">
+    <img src="https://img.shields.io/badge/Portfolio-tom--bury.fr-ff5a45?style=flat-square&logo=googlechrome&logoColor=white" />
   </a>
   <a href="https://www.linkedin.com/in/tom-bury-501534260">
     <img src="https://img.shields.io/badge/LinkedIn-Connectons-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
